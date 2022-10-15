@@ -1,0 +1,14 @@
+
+#body {
+    display: flex;
+}
+
+.row {
+    width: 100%;
+    height: auto;
+}
+
+.gridField {
+    display: block;
+    background-color: white;
+}
